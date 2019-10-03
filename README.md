@@ -1,52 +1,46 @@
-# [Eleventy Html5UP Fractal](https://appseed.us/static-site/eleventy-html5up-fractal)
+﻿# [Site Gratuit Fractal](https://site-gratuit-fractal.websitemarket.ro/) - Site Prezentare
 
-Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Fractal Design - [Live DEMO](https://eleventy-html5up-fractal.appseed.us)
-
-- Design: [HTML5up Fractal](https://html5up.net/fractal)
-- [11ty](https://www.11ty.io/)
-- [Sass/SCSS](https://github.com/sass/node-sass)
-- [Webpack](https://webpack.js.org/)
-- [Babel](https://babeljs.io/)
-- [light-server](https://github.com/txchen/light-server)
-- [PostCSS](https://postcss.org/)
-- [CSSnano](https://cssnano.co/)
-- [Autoprefixer](https://github.com/postcss/autoprefixer)
+Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-![Eleventy Html5UP Fractal - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-fractal-intro.gif?raw=true)
+![Site Gratuit Fractal - Prezentare in format Gif.](https://raw.githubusercontent.com/creare-site/static/master/produse/site-gratuit-fractal-intro.gif)
 
 <br />
 
-## App Links
+## Informatii produs
 
-- [Eleventy Html5UP Fractal](https://eleventy-html5up-fractal.appseed.us) - Live DEMO
-- [Eleventy Html5UP Fractal](https://appseed.us/static-site/eleventy-html5up-fractal) - Product Info
+- Site Gratuit - Site de prezentare
+- Live [DEMO](https://site-gratuit-fractal.websitemarket.ro)
+ 
+<br />
 
+## Licenta
+
+- Acest produs este protejat de drepturi de autor
+- Pentru cumpararea licentei de utilizare accesati [WebsiteMarket.ro](https://websitemarket.ro) 
 
 <br />
 
-## How to use it
+## Utilizare (pentru dezvoltatori)
 
-- Build from sources:
+Acesta website este o aplicatie JAMstack. Pentru a genera website-ul local urmati instructiunile:
 
 ```
-$ git clone https://github.com/app-generator/eleventy-html5up-fractal.git
-$ cd eleventy-html5up-fractal
-$ yarn # install modules 
-$ yarn dev # start in development mode
-
-$ # app is running on http://localhost:4000
+$ git clone https://github.com/creare-site/site-gratuit-fractal.git
+$ cd site-gratuit-fractal
+$ yarn # instalare module
+$ yarn dev # mod editare live
+$ yarn build # generare site productie
 ```
 
 <br />
 
-## License & Credits
+## Suport
 
-- [CCY 3.0](https://html5up.net/license) - inherited from Html5Up
-- [Deventy](https://github.com/ianrose/deventy) - the initial starter 
+Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https://discord.gg/MFRQmAk)
 
 <br />
 
 ---
-[Eleventy Html5UP Fractal](https://appseed.us/static-site/eleventy-html5up-fractal) - provided by **AppSeed**
+[Site Gratuit Fractal](https://site-gratuit-fractal.websitemarket.ro/) un produs **WebsiteMarket**
