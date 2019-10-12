@@ -1,4 +1,4 @@
-﻿# [Site Gratuit Fractal](https://site-gratuit-fractal.websitemarket.ro/) - Site Prezentare
+# [Site Gratuit Fractal](https://websitemarket.ro/site-gratuit/fractal/)
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
@@ -11,7 +11,8 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 ## Informatii produs
 
 - Site Gratuit - Site de prezentare
-- Live [DEMO](https://site-gratuit-fractal.websitemarket.ro)
+- [Site Gratuit Fractal DEMO](https://site-gratuit-fractal.websitemarket.ro)
+- [Site Gratuit Fractal - Info produs](https://websitemarket.ro/site-gratuit/fractal/)
  
 <br />
 
@@ -43,4 +44,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-[Site Gratuit Fractal](https://site-gratuit-fractal.websitemarket.ro/) un produs **WebsiteMarket**
+[Site Gratuit Fractal](https://websitemarket.ro/site-gratuit/fractal/) un produs **WebsiteMarket**
